@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555334618 source:e:\workspace\codeforces\problem set\next round\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
