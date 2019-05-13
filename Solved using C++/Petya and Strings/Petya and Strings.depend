@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557633899 source:e:\workspace\codeforces\problem set\c++\petya and strings\main.cpp
+	<iostream>
+	<string>
+
+1557731204 source:e:\workspace\1. problem solving\codeforces\problem set\c++\petya and strings\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstring>
+
