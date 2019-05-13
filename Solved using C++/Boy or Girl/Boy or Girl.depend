@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557758356 source:e:\workspace\1. problem solving\codeforces\problem set\c++\boy or girl\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
