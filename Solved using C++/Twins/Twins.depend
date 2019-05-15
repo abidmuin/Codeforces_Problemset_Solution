@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557914809 source:e:\workspace\1. problem solving\codeforces\problem set\c++\twins\main.cpp
+	<iostream>
+	<algorithm>
+	<valarray>
+
