@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1557964746 source:e:\workspace\1. problem solving\codeforces\problem set\c++\translation\main.cpp
-	<iostream>
-	<algorithm>
-	<string>
-	<string.h>
-
