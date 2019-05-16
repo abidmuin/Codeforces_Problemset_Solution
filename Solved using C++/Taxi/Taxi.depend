@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558007028 source:e:\workspace\1. problem solving\codeforces\problem set\c++\(un) taxi\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+
