@@ -1,0 +1,7 @@
+E:\Workspace\1. Problem Solving\Codeforces\Problem set\C#\Bear and Big Brother\Bear and Big Brother\obj\Debug\Bear and Big Brother.csproj.CoreCompileInputs.cache
+E:\Workspace\1. Problem Solving\Codeforces\Problem set\C#\Bear and Big Brother\Bear and Big Brother\bin\Debug\Bear and Big Brother.exe.config
+E:\Workspace\1. Problem Solving\Codeforces\Problem set\C#\Bear and Big Brother\Bear and Big Brother\bin\Debug\Bear and Big Brother.exe
+E:\Workspace\1. Problem Solving\Codeforces\Problem set\C#\Bear and Big Brother\Bear and Big Brother\bin\Debug\Bear and Big Brother.pdb
+E:\Workspace\1. Problem Solving\Codeforces\Problem set\C#\Bear and Big Brother\Bear and Big Brother\obj\Debug\Bear and Big Brother.exe
+E:\Workspace\1. Problem Solving\Codeforces\Problem set\C#\Bear and Big Brother\Bear and Big Brother\obj\Debug\Bear and Big Brother.pdb
+E:\Workspace\1. Problem Solving\Codeforces\Problem set\C#\Bear and Big Brother\Bear and Big Brother\obj\Debug\Bear and Big Brother.csprojAssemblyReference.cache
