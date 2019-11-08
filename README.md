@@ -1,2 +1,2 @@
 # Codeforces_Problemset_Solution
-Codeforces problems' solution will be uploaded here. I will solve most of the problems using C++.
+Codeforces problems' solutions will be uploaded here. I will try to solve most of the problems using C++.
