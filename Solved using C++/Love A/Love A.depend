@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573303142 source:e:\workspace\1. problem solving\codeforces\problem set\c++\love a\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
