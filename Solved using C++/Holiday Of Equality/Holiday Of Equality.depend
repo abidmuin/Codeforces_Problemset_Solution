@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581685659 source:e:\workspace\1. problem solving\codeforces\problem set\c++\holiday of equality\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
