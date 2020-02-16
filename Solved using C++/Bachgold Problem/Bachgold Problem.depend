@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581803921 source:e:\workspace\1. problem solving\codeforces\problem set\c++\bachgold problem\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+
