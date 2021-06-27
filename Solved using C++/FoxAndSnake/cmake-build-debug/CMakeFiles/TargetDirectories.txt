@@ -1,0 +1,3 @@
+E:/CF/FoxAndSnake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/CF/FoxAndSnake/cmake-build-debug/CMakeFiles/FoxAndSnake.dir
+E:/CF/FoxAndSnake/cmake-build-debug/CMakeFiles/edit_cache.dir
