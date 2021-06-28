@@ -1,3 +1,0 @@
-E:/CF/New Year and Hurry/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/CF/New Year and Hurry/cmake-build-debug/CMakeFiles/New_Year_and_Hurry.dir
-E:/CF/New Year and Hurry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
