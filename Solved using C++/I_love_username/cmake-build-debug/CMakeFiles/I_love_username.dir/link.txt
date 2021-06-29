@@ -1,0 +1,3 @@
+C:\Users\abid.muin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7442.42\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\I_love_username.dir/objects.a
+E:\Tools\mingw64\bin\ar.exe cr CMakeFiles\I_love_username.dir/objects.a @CMakeFiles\I_love_username.dir\objects1.rsp
+E:\Tools\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\I_love_username.dir/objects.a -Wl,--no-whole-archive -o I_love_username.exe -Wl,--out-implib,libI_love_username.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\I_love_username.dir\linklibs.rsp
